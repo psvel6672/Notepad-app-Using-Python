@@ -1,5 +1,6 @@
 # Notepad-app-Using-Python
 
+---------------------------------------------------------------------
 Author :: Ps Thamizhan
 
 App Name :: Notepad
@@ -7,6 +8,7 @@ App Name :: Notepad
 Version :: 1.0
 
 Reach me :: psthamizhan02@gmail.com
+-------------------------------------------------------
 
 # Description
 
