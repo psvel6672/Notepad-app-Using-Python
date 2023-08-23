@@ -15,9 +15,13 @@ Notepad App using python, you can customize easily
 Follow steps to use Notepad
 -------------------------------------------------------
 Use Editor for edit content.
+
 Use Filename field for give a name of the file.
+
 Click Save Button to save the file.
+
 Use Clear Button to clear both editor & filename field.
+
 Use Exit Button to close the Notepad.
 
 Use Theme Button to change the Editor Background.
