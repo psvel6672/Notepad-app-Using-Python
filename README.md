@@ -8,7 +8,6 @@ App Name :: Notepad
 Version :: 1.0
 
 Reach me :: psthamizhan02@gmail.com
--------------------------------------------------------
 
 # Description
 
